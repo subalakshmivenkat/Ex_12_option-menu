@@ -1,4 +1,5 @@
-# Ex_12_option-menu
+# Date:17.10.2024
+# Ex_10_option-menu
 ## AIM:
 To create a option menu to display menu items using Android Studio.
 ## EQUIPMENTS REQUIRED:
@@ -12,11 +13,11 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 ## PROGRAM:
-/*
+```
 Program to print the text “optionmenu”.
 Developed by:Subalakshmi V
 Registeration Number : 212222040162
-*/
+```
 activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
